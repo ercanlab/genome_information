@@ -3,4 +3,5 @@ Files that contain regions of interest, or specific subsets of the annotated gen
 
 These files will be specific to the C. elegans WS220 (ce10) genome build, unless otherwise stated.
 
-##
+## celegans_ws220_GATC_digest.bed
+This is a bed file with the posistion of every single GATC in the C. elegans genome. The position is given as the the two nucleotides A and T. GATC is the target site for digestion by DpnII and MboI, which are both used in chromosome conformation capture approaches.  
